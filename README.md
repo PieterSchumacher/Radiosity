@@ -2,13 +2,13 @@
 
 This program works in three steps:
 
-1. Model a 3D scene in Blender. The scene is exported as a .obj file (vertices) and .mtl (material information).
-2. Process the scene to simulate diffuse lighting.
-2.1 Read the .obj and .mtl and build a kd-tree (import_file_mp.py).
-2.2 Calculate the formfactor for each combination of triangles in the scene  (Main_multiprocessing_2.py).
-2.3 Calculate the emission of red, green and blue light for each triangle by approximating the solution of the set of linear equations
-using the Gauss-Seidel method (Main_multiprocessing_2.py).
-3. Visualise the scene using the VTK library (visualise_calculated_scene.py).
+- Model a 3D scene in Blender. The scene is exported as a .obj file (vertices) and .mtl (material information).
+- Process the scene to simulate diffuse lighting.
+  - Read the .obj and .mtl and build a kd-tree (import_file_mp.py).
+  - Calculate the formfactor for each combination of triangles in the scene  (Main_multiprocessing_2.py).
+  - Calculate the emission of red, green and blue light for each triangle by approximating the solution of the set of linear equations
+    using the Gauss-Seidel method (Main_multiprocessing_2.py).
+- Visualise the scene using the VTK library (visualise_calculated_scene.py).
 
 Result:  
 
