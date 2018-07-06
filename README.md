@@ -10,9 +10,9 @@ This program works in three steps:
     using the Gauss-Seidel method (Main_multiprocessing_2.py).
 - Visualise the scene using the VTK library (visualise_calculated_scene.py).
 
-Result:  
-
 For more information on radiosity, visit the wikipedia page (https://en.wikipedia.org/wiki/Radiosity).
+
+Result:  
 
 Upper view.
 
