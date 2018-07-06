@@ -12,13 +12,15 @@ This program works in three steps:
 
 Result:  
 
-![25673514_1817237721634501_1889371567_o](https://user-images.githubusercontent.com/32960213/42384357-083837ec-813a-11e8-9b96-9650c9b72fa2.png)
+For more information on radiosity, visit the wikipedia page (https://en.wikipedia.org/wiki/Radiosity).
 
+Upper view.
 
-![25637183_1817239868300953_1482502332_o](https://user-images.githubusercontent.com/32960213/42384288-e41ffaca-8139-11e8-8db6-ab2f6b26cfe9.png)
+![25673514_1817237721634501_1889371567_o](https://user-images.githubusercontent.com/32960213/42385624-92760f1c-813d-11e8-8f13-eb15489563e6.png)
 
+Sideways.
+
+![25637183_1817239868300953_1482502332_o](https://user-images.githubusercontent.com/32960213/42385623-92548d92-813d-11e8-89c4-7e21f26604a3.png)
 
 Highlight of the purple light as a result of the blue light colliding with a red wall.
-![25625401_1817239321634341_355038500_o](https://user-images.githubusercontent.com/32960213/42384452-4cb65cc8-813a-11e8-8669-898c8223638c.png)
-
-For more information on radiosity, visit the wikipedia page (https://en.wikipedia.org/wiki/Radiosity).
+![25625401_1817239321634341_355038500_o](https://user-images.githubusercontent.com/32960213/42385625-929602ea-813d-11e8-9cbb-786d8a69a98f.png)
